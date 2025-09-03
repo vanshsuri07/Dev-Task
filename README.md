@@ -92,6 +92,4 @@ The project follows a standard React application structure, with a focus on modu
 
 ![Sign In Page](https://i.ibb.co/zDs4nyX/Screenshot-58.png)
 
-### Account Settings Page
 
-![Account Settings Page](https://i.ibb.co/Hp2jnNTg/Screenshot-57.png)
